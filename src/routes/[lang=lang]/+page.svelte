@@ -1,5 +1,7 @@
 <script lang="ts">
 	import Landing from '$lib/components/Landing.svelte';
+
+	let { data } = $props();
 </script>
 
-<Landing locale="en" />
+<Landing locale={data.locale} />

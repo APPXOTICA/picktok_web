@@ -75,3 +75,9 @@ html[lang='ko'] body {
 	word-break: keep-all;
 	overflow-wrap: anywhere;
 }
+
+/* Outfit has no Vietnamese/Cyrillic glyphs: use Open Sans for headings there */
+html[lang='vi'],
+html[lang='ru'] {
+	--font-display: 'Open Sans', system-ui, sans-serif;
+}
