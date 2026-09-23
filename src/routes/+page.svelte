@@ -282,7 +282,6 @@
 		<a href="/tutorial/">Guides</a>
 		<a href="mailto:vincent@appxotica.com">Contact</a>
 	</nav>
-	<p>© {new Date().getFullYear()} Appxotica. TikTok and YouTube are trademarks of their respective owners.</p>
 </footer>
 
 <style>
@@ -862,11 +861,6 @@
 		text-decoration: none;
 	}
 
-	.site-footer p {
-		flex-basis: 100%;
-		font-size: 13px;
-	}
-
 	/* ---------- responsive ---------- */
 	@media (max-width: 880px) {
 		.hero {
@@ -883,6 +877,35 @@
 
 		.plans {
 			grid-template-columns: 1fr;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		/* Stacked layout: center everything */
+		.hero-copy,
+		.how,
+		.features,
+		.pricing {
+			text-align: center;
+		}
+
+		.lede,
+		section h2 {
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		.stores {
+			justify-content: center;
+		}
+
+		.plan ul {
+			justify-items: center;
+		}
+
+		.site-footer {
+			flex-direction: column;
+			justify-content: center;
 		}
 	}
 
