@@ -8,6 +8,7 @@ PickTok website: landing page (`/`) and the in-app tutorial pages, built with Sv
 | --- | --- |
 | `/` | Landing page (English). Redirects to the visitor's language on first visit |
 | `/{locale}/` | Landing page in another language (e.g. `/ko/`, `/zh-Hant/`) |
+| `/policy/` | Privacy policy (English only). Moved from appxotica.com/picktok/policy.html |
 | `/tutorial/` | Redirects to the browser's language |
 | `/tutorial/{locale}/` | List of guides in a language |
 | `/tutorial/{locale}/{page}/` | A guide — `organize`, `folders`, `subfolders`, `video-controls` |

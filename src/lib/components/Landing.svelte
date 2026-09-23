@@ -265,7 +265,8 @@
 	</div>
 	<nav>
 		<a href={guidesUrl}>{t.footer.guides}</a>
-		<a href="mailto:vincent@appxotica.com">{t.footer.contact}</a>
+		<a href="mailto:hello@appxotica.com">{t.footer.contact}</a>
+		<a href="/policy/">Privacy</a>
 	</nav>
 </footer>
 
