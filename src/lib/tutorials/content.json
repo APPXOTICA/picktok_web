@@ -1,0 +1,1528 @@
+{
+ "de": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "Das Organisieren von Kurzvideos ist ganz einfach"
+   },
+   {
+    "type": "text",
+    "html": "Um Videos zu organisieren, können Sie Folgendes tun:<br>- Direktes Teilen über die TikTok-App (oder YouTube-Shorts).<br>- Importieren Sie heruntergeladene Videos aus Ihrer Fotobibliothek.<br><br>Beginnen wir mit dem ersten.<br>1. Klicken Sie auf TikTok auf „Teilen“, scrollen Sie nach rechts und tippen Sie auf „Mehr“.<br>2. Wählen Sie PickTok aus, dann werden Sie zu PickTok weitergeleitet.<br>3. Wenn Sie mit der Erstellung eines Miniaturbilds fertig sind, fügen Sie es in einen Ordner ein."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "Sehen wir uns nun an, wie heruntergeladene Videos importiert werden.<br>1. Klicken Sie auf „Auswählen“ und wählen Sie die zu organisierenden Videos aus.<br>2. Tippen Sie auf einen Zielordner."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Falls etwas schief geht, drücken Sie einfach die ⊗-Taste zum Zurücksetzen und versuchen Sie es erneut.<br><br># Möchten Sie PickTok nach oben verschieben, um unter den „Mehr“-Optionen besser zugänglich zu sein?<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># Sie können diese Anleitung später finden, indem Sie oben links auf ⓘ tippen."
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "Ordner neu anordnen"
+   },
+   {
+    "type": "text",
+    "html": "Halten Sie gedrückt und ziehen Sie einen Ordner an den gewünschten Ort.<br>Ja, so einfach ist das. 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "Das Neuanordnen von Unterordnern ist im Großen und Ganzen das Gleiche."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "Subfolders"
+   },
+   {
+    "type": "text",
+    "html": "Once you've created subfolders, you can navigate through folders by tapping folder icons.<br><br>The leftmost folder is the root folder and if you double tap it, all the associated videos including its subfolders' will be listed."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "You can also move videos between folders in the same way you did on the Organize tab.<br><br>Below you can see how to move videos from the root folder(Receipes) to its subfolder(Italian)."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "Play multiple videos simultaneously"
+   },
+   {
+    "type": "text",
+    "html": "Another cool feature of PickTok is being able to play multiple videos simultaneously on the same screen.<br><br>1. Hit 'Select'<br>2. Select downloaded videos.<br>3. Hit 'Actions' then 'Multi Play'."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Please be noted that Multi Play works for downloaded videos only."
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "Leitfaden zur Videosteuerung"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. Geben Sie Sekunden für den schnellen Vor-/Rücklauf an.<br>2. Überspringen Sie die Abspannszene von TikTok.<br>3. Gehen Sie zurück zum Anfang."
+   },
+   {
+    "type": "note",
+    "html": "# Videosteuerelemente sind nur für heruntergeladene Videos verfügbar."
+   }
+  ]
+ },
+ "en": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "Organizing short-form videos made easy"
+   },
+   {
+    "type": "text",
+    "html": "To organize videos, you can do either<br>- directly share from TikTok app(or Youtube Shorts).<br>- import downloaded videos from your photo library.<br><br>Let's begin with the first one.<br>1. Hit 'Share' on TikTok, scroll to the right and tap 'More'.<br>2. Select PickTok then you will be redirected to PickTok.<br>3. Once you've finished making a thumbnail, insert it to a folder."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "Now let's see how to import downloaded videos.<br>1. Hit 'Select' and select videos to organize.<br>2. Tap a destination folder."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# In case something goes wrong, just hit ⊗ button to reset and try again.<br><br># Do you want to move up PickTok to be more accessible under the “More” options?<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># You can find this guide later by tapping ⓘ on the top left corner."
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "Reordering Folders"
+   },
+   {
+    "type": "text",
+    "html": "Hold down and drag a folder to your desired location.<br>Yeah, it's just that simple. 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "Reordering subfolders is pretty much the same."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "Subfolders"
+   },
+   {
+    "type": "text",
+    "html": "Once you've created subfolders, you can navigate through folders by tapping folder icons.<br><br>The leftmost folder is the root folder and if you double tap it, all the associated videos including its subfolders' will be listed."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "You can also move videos between folders in the same way you did on the Organize tab.<br><br>Below you can see how to move videos from the root folder(Receipes) to its subfolder(Italian)."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "Play multiple videos simultaneously"
+   },
+   {
+    "type": "text",
+    "html": "Another cool feature of PickTok is being able to play multiple videos simultaneously on the same screen.<br><br>1. Hit 'Select'<br>2. Select downloaded videos.<br>3. Hit 'Actions' then 'Multi Play'."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Please be noted that Multi Play works for downloaded videos only."
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "Video Controls Guide"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. Specify fast forward/rewind seconds.<br>2. Skip TikTok's end credits scene.<br>3. Go back to start."
+   },
+   {
+    "type": "note",
+    "html": "# Video controls are available for downloaded videos only."
+   }
+  ]
+ },
+ "es": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "Organizar vídeos cortos más fácil que nunca"
+   },
+   {
+    "type": "text",
+    "html": "Para organizar los vídeos, puedes hacer una de estas dos cosas<br>- compartir directamente desde la aplicación TikTok(o Youtube Shorts).<br>- importar vídeos descargados de tu fototeca.<br><br>Empecemos por la primera.<br>1. Pulsa 'Compartir' en TikTok, desplázate a la derecha y toca 'Más'.<br>2. Selecciona PickTok entonces serás redirigido a PickTok.<br>3. Una vez que hayas terminado de hacer una miniatura, insértala en una carpeta."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "Ahora veamos cómo importar vídeos descargados.<br>1. Pulsa 'Seleccionar' y selecciona los vídeos a organizar.<br>2. Toca una carpeta de destino."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# En caso de que algo vaya mal, simplemente pulsa el botón ⊗ para reiniciar y volver a intentarlo.<br><br># ¿Quieres subir PickTok para que esté más accesible en las opciones de \"Más\"?<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS)</a><br><br># Puedes encontrar esta guía más tarde tocando ⓘ en la esquina superior izquierda."
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "Reorganización de carpetas"
+   },
+   {
+    "type": "text",
+    "html": "Mantén pulsado y arrastra una carpeta a la ubicación deseada.<br>Sí, así de sencillo. 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "Reordenar las subcarpetas es más o menos lo mismo."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "Subcarpetas"
+   },
+   {
+    "type": "text",
+    "html": "Una vez que hayas creado subcarpetas, puedes navegar por ellas tocando los iconos de las carpetas.<br><br>La carpeta situada más a la izquierda es la carpeta raíz y, si la tocas dos veces, aparecerán todos los vídeos asociados, incluidas sus subcarpetas."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "También puedes mover vídeos entre carpetas de la misma forma que hiciste en la pestaña Organizar.<br><br>A continuación puedes ver cómo mover vídeos de la carpeta raíz( Recetas) a su subcarpeta(Italiana)."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "Reproduce varios vídeos simultáneamente"
+   },
+   {
+    "type": "text",
+    "html": "Otra característica chula de PickTok es poder reproducir varios vídeos simultáneamente en la misma pantalla.<br><br>1. Pulsa 'Seleccionar'<br>2. Selecciona los vídeos descargados.<br>3. Pulsa 'Acciones' y, a continuación, 'Multi Play'."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Ten en cuenta que Multi Play sólo funciona para vídeos descargados."
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "Guía de controles de vídeo"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "A. Especifica los segundos de avance rápido/rebobinado.<br>B. Omitir la escena de créditos finales de TikTok.<br>C. Volver al principio."
+   },
+   {
+    "type": "note",
+    "html": "# Los controles de vídeo sólo están disponibles para los vídeos descargados."
+   }
+  ]
+ },
+ "fr": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "Organiser facilement des vidéos courtes"
+   },
+   {
+    "type": "text",
+    "html": "Pour organiser les vidéos, vous pouvez faire soit<br>- partager directement depuis l'application TikTok (ou Youtube Shorts).<br>- importer des vidéos téléchargées depuis votre photothèque.<br><br>Commençons par le premier.<br>1. Appuyez sur \"Partager\" sur TikTok, faites défiler vers la droite et appuyez sur \"Plus\".<br>2. Sélectionnez PickTok puis vous serez redirigé vers PickTok.<br>3. Une fois que vous avez terminé de créer une vignette, insérez-la dans un dossier."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "Voyons maintenant comment importer des vidéos téléchargées.<br>1. Appuyez sur \"Sélectionner\" et sélectionnez les vidéos à organiser.<br>2. Appuyez sur un dossier de destination."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# En cas de problème, appuyez simplement sur le bouton ⊗ pour réinitialiser et réessayer.<br><br># Voulez-vous déplacer PickTok vers le haut pour être plus accessible sous les options \"Plus\" ?<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># Vous pouvez trouver ce guide plus tard en appuyant sur ⓘ dans le coin supérieur gauche."
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "Réorganiser les dossiers"
+   },
+   {
+    "type": "text",
+    "html": "Maintenez enfoncé et faites glisser un dossier vers l'emplacement souhaité.<br>Ouais, c'est aussi simple que ça. 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "La réorganisation des sous-dossiers est à peu près la même."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "Sous-dossiers"
+   },
+   {
+    "type": "text",
+    "html": "Une fois que vous avez créé des sous-dossiers, vous pouvez parcourir les dossiers en appuyant sur les icônes de dossier.<br><br>Le dossier le plus à gauche est le dossier racine et si vous appuyez deux fois dessus, toutes les vidéos associées, y compris ses sous-dossiers, seront répertoriées."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "Vous pouvez également déplacer des vidéos entre des dossiers de la même manière que vous l'avez fait dans l'onglet Organiser.<br><br>Ci-dessous, vous pouvez voir comment déplacer des vidéos du dossier racine (Receipes) vers son sous-dossier (italien)."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "Lire plusieurs vidéos simultanément"
+   },
+   {
+    "type": "text",
+    "html": "Une autre fonctionnalité intéressante de PickTok est de pouvoir lire plusieurs vidéos simultanément sur le même écran.<br><br>1. Appuyez sur \"Sélectionner\"<br>2. Sélectionnez les vidéos téléchargées.<br>3. Cliquez sur \"Actions\" puis sur \"Multi Play\"."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Veuillez noter que Multi Play ne fonctionne que pour les vidéos téléchargées."
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "Guide des commandes vidéo"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. Spécifiez les secondes d'avance/retour rapide.<br>2. Passer la scène du générique de fin de TikTok.<br>3. Revenir au début."
+   },
+   {
+    "type": "note",
+    "html": "# Les commandes vidéo ne sont disponibles que pour les vidéos téléchargées."
+   }
+  ]
+ },
+ "id": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "Pengorganisasian video bentuk pendek menjadi mudah"
+   },
+   {
+    "type": "text",
+    "html": "Untuk mengatur video, Anda dapat melakukan<br>- langsung berbagi dari aplikasi TikTok (atau Youtube Shorts).<br>- impor video yang diunduh dari pustaka foto Anda.<br><br>Mari kita mulai dengan yang pertama.<br>1. Tekan 'Bagikan' di TikTok, gulir ke kanan dan ketuk 'Lainnya'.<br>2. Pilih PickTok maka Anda akan dialihkan ke PickTok.<br>3. Setelah Anda selesai membuat thumbnail, sisipkan ke folder."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "Sekarang mari kita lihat cara mengimpor video yang diunduh.<br>1. Tekan 'Pilih' dan pilih video untuk diatur.<br>2. Ketuk folder tujuan."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Jika terjadi kesalahan, tekan saja tombol ⊗ untuk mengatur ulang dan coba lagi.<br><br># Apakah Anda ingin menaikkan PickTok agar lebih mudah diakses di bawah opsi “Lainnya”?<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># Anda dapat menemukan panduan ini nanti dengan mengetuk ⓘ di pojok kiri atas."
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "Menyusun Ulang Folder"
+   },
+   {
+    "type": "text",
+    "html": "Tahan dan seret folder ke lokasi yang diinginkan.<br>Ya, sesederhana itu. 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "Menyusun ulang subfolder hampir sama."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "Subfolder"
+   },
+   {
+    "type": "text",
+    "html": "Setelah membuat subfolder, Anda dapat membuka folder dengan mengetuk ikon folder.<br><br>Folder paling kiri adalah folder root dan jika Anda mengetuknya dua kali, semua video terkait termasuk subfoldernya akan dicantumkan."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "Anda juga dapat memindahkan video di antara folder dengan cara yang sama seperti pada tab Atur.<br><br>Di bawah ini Anda dapat melihat cara memindahkan video dari folder root (Tanda Terima) ke subfoldernya (Italia)."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "Putar beberapa video secara bersamaan"
+   },
+   {
+    "type": "text",
+    "html": "Fitur keren lainnya dari PickTok adalah dapat memutar banyak video secara bersamaan di layar yang sama.<br><br>1. Tekan 'Pilih'<br>2. Pilih video yang diunduh.<br>3. Tekan 'Actions' lalu 'Multi Play'."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Harap diperhatikan bahwa Multi Play hanya berfungsi untuk video yang diunduh."
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "Panduan Kontrol Video"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. Tentukan detik maju/mundur cepat.<br>2. Lewati adegan kredit akhir TikTok.<br>3. Kembali ke awal."
+   },
+   {
+    "type": "note",
+    "html": "# Kontrol video hanya tersedia untuk video yang diunduh."
+   }
+  ]
+ },
+ "it": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "Organizzazione di video brevi semplificata"
+   },
+   {
+    "type": "text",
+    "html": "Per organizzare i video, puoi eseguire una delle due operazioni<br>- condividi direttamente dall'app TikTok (o Youtube Shorts).<br>- importa i video scaricati dalla tua libreria di foto.<br><br>Iniziamo con il primo.<br>1. Premi \"Condividi\" su TikTok, scorri verso destra e tocca \"Altro\".<br>2. Seleziona PickTok e verrai reindirizzato a PickTok.<br>3. Una volta che hai finito di creare una miniatura, inseriscila in una cartella."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "Ora vediamo come importare i video scaricati.<br>1. Premi \"Seleziona\" e seleziona i video da organizzare.<br>2. Tocca una cartella di destinazione."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Nel caso in cui qualcosa vada storto, basta premere il pulsante ⊗ per reimpostare e riprovare.<br><br># Vuoi spostare PickTok in modo che sia più accessibile nelle opzioni \"Altro\"?<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># Puoi trovare questa guida in un secondo momento toccando ⓘ nell'angolo in alto a sinistra."
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "Riordinare le cartelle"
+   },
+   {
+    "type": "text",
+    "html": "Tieni premuto e trascina una cartella nella posizione desiderata.<br>Sì, è così semplice. 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "Il riordino delle sottocartelle è praticamente lo stesso."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "Sottocartelle"
+   },
+   {
+    "type": "text",
+    "html": "Dopo aver creato le sottocartelle, puoi spostarti tra le cartelle toccando le icone delle cartelle.<br><br>La cartella più a sinistra è la cartella principale e se la tocchi due volte, verranno elencati tutti i video associati, comprese le relative sottocartelle."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "Puoi anche spostare i video tra le cartelle nello stesso modo in cui hai fatto nella scheda Organizza.<br><br>Di seguito puoi vedere come spostare i video dalla cartella principale (Ricette) alla sua sottocartella (Italiano)."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "Riproduci più video contemporaneamente"
+   },
+   {
+    "type": "text",
+    "html": "Un'altra caratteristica interessante di PickTok è la possibilità di riprodurre più video contemporaneamente sullo stesso schermo.<br><br>1. Premi \"Seleziona\"<br>2. Seleziona i video scaricati.<br>3. Premi \"Azioni\", quindi \"Multi Play\"."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Tieni presente che Multi Play funziona solo per i video scaricati."
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "Guida ai controlli video"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. Specifica i secondi di avanzamento/riavvolgimento rapido.<br>2. Salta la scena dei titoli di coda di TikTok.<br>3. Torna all'inizio."
+   },
+   {
+    "type": "note",
+    "html": "# I controlli video sono disponibili solo per i video scaricati."
+   }
+  ]
+ },
+ "ja": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "チックトークビデオを整理してみてください。"
+   },
+   {
+    "type": "text",
+    "html": "PickTokはビデオクリーンアップのための2つの方法を提供します。<br>1. ティックトークアプリ（またはYouTube Shorts）で共有することを呼び出す<br>2. フォトアルバムから読み込む<br><br>最初の方法から見てみましょうか？<br>1.チックトークで共有をタップします。 右端までスクロールして「詳細」ボタンを押します。<br>2. ここで PickTok を選択すると、PickTok アプリが立ち上がります。<br>3. サムネイルを作成したら、目的のフォルダに入れます。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "それでは、フォトアルバムから読み込む方法を見てみましょう。<br>1.選択ボタンを押します。<br>2. 目的のフォルダをタップします。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "＃ビデオの読み込み中に問題が発生した場合は、⊗アイコンをタップしてリセットしてからもう一度お試しください。<br><br>＃Ticktokアプリの「共有 - 詳細」でPickTokを前に配置する方法については、下記のリンクをご覧ください。<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br>＃このガイドは上のⓘアイコンをタップしてもう一度見ることができます。"
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "フォルダの並べ替え"
+   },
+   {
+    "type": "text",
+    "html": "以下のように長押ししてから、目的の位置に移動してください。<br>簡単ですか？ 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "サブフォルダの順序を変更する方法も同じです。."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "フォルダ内にフォルダを作成できます。"
+   },
+   {
+    "type": "text",
+    "html": "特定のフォルダのビデオを見るには、フォルダを一度タップするだけです。<br><br>一番左のフォルダは親フォルダです。 親フォルダをダブルタップすると、すべてのサブフォルダのビデオが含まれます。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "ビデオをフォルダに配置する方法は、[クリーンアップ]タブで行ったのと同じです。<br>以下は、親フォルダ（Recepies）から子フォルダ（Italian）にビデオを移動する方法を示しています。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "複数の動画を同時に再生してみてください。"
+   },
+   {
+    "type": "text",
+    "html": "ピクトックだけの特別な機能である同時再生について学びましょう。<br>同時再生をすると、最大4つの動画を1画面で同時に見ることができます。 1.選択ボタンを押します。<br>2.ダウンロードした動画を最大4つ選択してください。<br>3. アクションを押した後、同時再生をクリックします。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "＃同時再生はダウンロードした動画にのみ適用されます。"
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "ビデオコントロールガイド"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. このボタンで早送り/巻き戻し時間（秒）を設定できます。 2.チックトークビデオの最後のエンディングクレジットをスキップしたい場合は、このボタンを有効にしてください。<br>3. 最初に戻ります。"
+   },
+   {
+    "type": "note",
+    "html": "＃ビデオコントロールはダウンロードしたビデオにのみ適用されます."
+   }
+  ]
+ },
+ "ko": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "틱톡 비디오를 정리해보세요."
+   },
+   {
+    "type": "text",
+    "html": "PickTok은 비디오 정리를 위한 두 가지 방법을 제공합니다.<br>1. 틱톡 앱(또는 유튜브 Shorts)에서 공유하기로 불러오기<br>2. 사진 앨범에서 불러오기<br><br>첫 번째 방법부터 살펴볼까요?<br>1. 틱톡에서 공유하기를 누르세요. 오른 쪽 끝으로 스크롤 해서 '자세히' 버튼을 누르세요.<br>2. 여기서 PickTok을 선택하시면 PickTok 앱이 뜰거에요.<br>3. 썸네일을 만드신 후에 원하는 폴더에 넣으세요."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "이제 사진 앨범에서 불러오는 방법을 살펴볼게요.<br>1. 선택 버튼을 누르세요.<br>2. 원하는 폴더를 탭하세요."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# 비디오 로딩 중 문제가 발생할 경우 ⊗ 아이콘을 탭하여 리셋하신 후에 다시 시도해주세요.<br><br># 틱톡 앱의 '공유-자세히'에서 PickTok을 앞에 위치시키는 방법은 아래 링크를 참조하세요.<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># 이 가이드는 상단 ⓘ 아이콘을 탭하시면 다시 보실 수 있습니다."
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "폴더 순서 바꾸기"
+   },
+   {
+    "type": "text",
+    "html": "아래처럼 길게 누른 후 원하는 위치로 옮기시면 됩니다.<br>간단하죠?"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "서브폴더의 순서를 바꾸는 방법도 동일합니다."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "폴더 안에 폴더를 만들 수 있어요."
+   },
+   {
+    "type": "text",
+    "html": "특정 폴더의 비디오를 보기 위해서는 폴더를 한 번 탭하면 됩니다.<br><br>가장 왼쪽의 폴더는 상위폴더입니다. 상위폴더를 두 번 탭하면 모든 하위폴더의 비디오를 포함해서 보여줍니다."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "비디오를 폴더에 넣는 방법은 '정리' 탭에서 하신 것과 동일합니다.<br>아래는 상위폴더(Recepies)에서 하위폴더(Italian)로 비디오를 옮기는 방법을 보여줍니다."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "여러 비디오를 동시에 재생해보세요."
+   },
+   {
+    "type": "text",
+    "html": "픽톡만의 특별한 기능인 동시재생에 대해서 알아볼게요.<br>동시재생을 하시면 최대 4개의 동영상을 한 화면에서 동시에 보실 수 있습니다.<br><br>1. 선택 버튼을 누르세요.<br>2. 다운받은 동영상을 최대 4개 선택하세요.<br>3. 액션을 누르신 후 동시재생을 누르세요."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# 동시재생은 다운받은 동영상에만 적용됩니다."
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "비디오 콘트롤 가이드"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "A. 이 버튼으로 빨리감기/되감기 시간(초)를 설정할 수 있습니다.<br>B. 틱톡 비디오 끝 부분의 엔딩크레딧을 건너뛰고 싶으시면 이 버튼을 활성화하세요.<br>C. 처음으로 돌아갑니다."
+   },
+   {
+    "type": "note",
+    "html": "# 비디오 콘트롤은 다운받은 동영상에만 적용됩니다."
+   }
+  ]
+ },
+ "pt": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "A organização de vídeos curtos ficou fácil"
+   },
+   {
+    "type": "text",
+    "html": "Para organizar vídeos, você pode fazer<br>- compartilhe diretamente do aplicativo TikTok (ou Youtube Shorts).<br>- importar vídeos baixados de sua biblioteca de fotos.<br><br>Vamos começar com o primeiro.<br>1. Clique em 'Compartilhar' no TikTok, role para a direita e toque em 'Mais'.<br>2. Selecione PickTok e você será redirecionado para PickTok.<br>3. Depois de terminar de criar uma miniatura, insira-a em uma pasta."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "Agora vamos ver como importar vídeos baixados.<br>1. Clique em 'Selecionar' e selecione os vídeos para organizar.<br>2. Toque em uma pasta de destino."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Caso algo dê errado, basta apertar o botão ⊗ para redefinir e tentar novamente.<br><br># Deseja subir o PickTok para ficar mais acessível nas opções “Mais”?<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># Você pode encontrar este guia mais tarde tocando em ⓘ no canto superior esquerdo."
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "Reordenando Pastas"
+   },
+   {
+    "type": "text",
+    "html": "Mantenha pressionada e arraste uma pasta para o local desejado.<br>Sim, é simples assim. 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "Reordenar subpastas é praticamente o mesmo."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "Subpastas"
+   },
+   {
+    "type": "text",
+    "html": "Depois de criar subpastas, você pode navegar pelas pastas tocando nos ícones de pasta.<br><br>A pasta mais à esquerda é a pasta raiz e, se você tocar duas vezes nela, todos os vídeos associados, incluindo suas subpastas, serão listados."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "Você também pode mover vídeos entre pastas da mesma forma que fazia na guia Organizar.<br><br>Abaixo você pode ver como mover vídeos da pasta raiz (Receitas) para sua subpasta (Italiano)."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "Reproduzir vários vídeos simultaneamente"
+   },
+   {
+    "type": "text",
+    "html": "Outro recurso interessante do PickTok é poder reproduzir vários vídeos simultaneamente na mesma tela.<br><br>1. Clique em 'Selecionar'<br>2. Selecione os vídeos baixados.<br>3. Clique em 'Ações' e depois em 'Multi Play'."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Observe que o Multi Play funciona apenas para vídeos baixados."
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "Guia de controles de vídeo"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. Especifique os segundos de avanço/retrocesso rápido.<br>2. Pule a cena dos créditos finais do TikTok.<br>3. Volte ao início."
+   },
+   {
+    "type": "note",
+    "html": "# Os controles de vídeo estão disponíveis apenas para vídeos baixados."
+   }
+  ]
+ },
+ "ru": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "Организация коротких видеороликов стала проще"
+   },
+   {
+    "type": "text",
+    "html": "Чтобы упорядочить видео, вы можете сделать следующее:<br>- напрямую делиться из приложения TikTok (или Youtube Shorts).<br>- импортируйте загруженные видео из вашей фототеки.<br><br>Начнем с первого.<br>1. Нажмите \"Поделиться\" в TikTok, прокрутите вправо и нажмите \"Еще\".<br>2. Выберите PickTok, и вы будете перенаправлены на PickTok.<br>3. Закончив создание эскиза, вставьте его в папку."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "Теперь давайте посмотрим, как импортировать скачанные видео.<br>1. Нажмите \"Выбрать\" и выберите видео для систематизации.<br>2. Нажмите на папку назначения."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Если что-то пойдет не так, просто нажмите кнопку ⊗ для сброса и повторите попытку.<br><br># Вы хотите поднять PickTok, чтобы он был более доступным в разделе «Дополнительно»?<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># Вы можете найти это руководство позже, нажав ⓘ в верхнем левом углу."
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "Изменение порядка папок"
+   },
+   {
+    "type": "text",
+    "html": "Удерживая нажатой, перетащите папку в нужное место.<br>Да, это так просто. 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "Переупорядочивание вложенных папок почти такое же."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "Подпапки"
+   },
+   {
+    "type": "text",
+    "html": "Создав вложенные папки, вы можете перемещаться между ними, нажимая значки папок.<br><br>Крайняя левая папка является корневой папкой, и если вы дважды коснетесь ее, будут перечислены все связанные видео, включая ее подпапки."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "Вы также можете перемещать видео между папками так же, как на вкладке \"Упорядочить\".<br><br>Ниже вы можете увидеть, как переместить видео из корневой папки (Receipes) в ее подпапку (итальянский)."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "Воспроизведение нескольких видео одновременно"
+   },
+   {
+    "type": "text",
+    "html": "Еще одна интересная функция PickTok — возможность одновременного воспроизведения нескольких видео на одном экране.<br><br>1. Нажмите \"Выбрать\"<br>2. Выберите загруженные видео.<br>3. Нажмите \"Действия\", а затем \"Многопользовательская игра\"."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Обратите внимание, что Multi Play работает только для загруженных видео."
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "Руководство по управлению видео"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. Укажите секунды быстрой перемотки вперед/назад.<br>2. Пропустите сцену финальных титров TikTok.<br>3. Вернитесь к началу."
+   },
+   {
+    "type": "note",
+    "html": "# Элементы управления видео доступны только для загруженных видео."
+   }
+  ]
+ },
+ "th": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "การจัดระเบียบวิดีโอแบบสั้นทำได้ง่าย"
+   },
+   {
+    "type": "text",
+    "html": "ในการจัดระเบียบวิดีโอ คุณสามารถทำได้อย่างใดอย่างหนึ่ง<br>- แชร์โดยตรงจากแอป TikTok (หรือ Youtube Shorts)<br>- นำเข้าวิดีโอที่ดาวน์โหลดจากคลังรูปภาพของคุณ<br><br>มาเริ่มกันที่อันแรก<br>1. กด 'แชร์' บน TikTok เลื่อนไปทางขวาแล้วแตะ 'เพิ่มเติม'<br>2. เลือก PickTok จากนั้นคุณจะถูกนำไปที่ PickTok<br>3. เมื่อคุณสร้างภาพขนาดย่อเสร็จแล้ว ให้แทรกลงในโฟลเดอร์"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "ทีนี้มาดูวิธีการนำเข้าวิดีโอที่ดาวน์โหลดมา<br>1. กด 'เลือก' และเลือกวิดีโอที่จะจัดระเบียบ<br>2. แตะโฟลเดอร์ปลายทาง"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# ในกรณีที่เกิดข้อผิดพลาด เพียงกดปุ่ม ⊗ เพื่อรีเซ็ตและลองอีกครั้ง<br><br># คุณต้องการย้ายขึ้น PickTok เพื่อให้สามารถเข้าถึงได้มากขึ้นภายใต้ตัวเลือก \"เพิ่มเติม\" หรือไม่<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># คุณสามารถดูคำแนะนำนี้ได้ในภายหลังโดยแตะ ⓘ ที่มุมซ้ายบน"
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "การเปลี่ยนลำดับของโฟลเดอร์"
+   },
+   {
+    "type": "text",
+    "html": "กดค้างไว้แล้วลากโฟลเดอร์ไปยังตำแหน่งที่คุณต้องการ<br>ใช่ มันง่ายมาก 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "การเรียงลำดับโฟลเดอร์ย่อยใหม่นั้นค่อนข้างเหมือนกัน."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "โฟลเดอร์ย่อย"
+   },
+   {
+    "type": "text",
+    "html": "เมื่อคุณสร้างโฟลเดอร์ย่อยแล้ว คุณสามารถนำทางไปยังโฟลเดอร์ต่างๆ ได้โดยการแตะที่ไอคอนโฟลเดอร์<br><br>โฟลเดอร์ซ้ายสุดคือโฟลเดอร์รูท และหากคุณแตะสองครั้ง วิดีโอที่เกี่ยวข้องทั้งหมดรวมถึงโฟลเดอร์ย่อยจะแสดงรายการ"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "คุณยังสามารถย้ายวิดีโอระหว่างโฟลเดอร์ได้ด้วยวิธีเดียวกับที่ทำในแท็บจัดระเบียบ<br><br>ด้านล่างนี้ คุณสามารถดูวิธีย้ายวิดีโอจากโฟลเดอร์รูท (ใบเสร็จรับเงิน) ไปยังโฟลเดอร์ย่อย (ภาษาอิตาลี)"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "เล่นวิดีโอหลายรายการพร้อมกัน"
+   },
+   {
+    "type": "text",
+    "html": "ฟีเจอร์เด็ดอีกอย่างของ PickTok คือสามารถเล่นวิดีโอหลายรายการพร้อมกันบนหน้าจอเดียวกัน<br><br>1. กด 'เลือก'<br>2. เลือกวิดีโอที่ดาวน์โหลด<br>3. กด 'การดำเนินการ' จากนั้น 'เล่นหลายรายการ'"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# โปรดทราบว่า Multi Play ใช้งานได้กับวิดีโอที่ดาวน์โหลดเท่านั้น"
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "คู่มือการควบคุมวิดีโอ"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. ระบุวินาทีเดินหน้า/ถอยหลังอย่างเร็ว<br>2. ข้ามฉากเครดิตตอนจบของ TikTok<br>3. กลับไปเริ่มต้น"
+   },
+   {
+    "type": "note",
+    "html": "# การควบคุมวิดีโอมีให้สำหรับวิดีโอที่ดาวน์โหลดเท่านั้น."
+   }
+  ]
+ },
+ "vi": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "Sắp xếp các video dạng ngắn dễ dàng"
+   },
+   {
+    "type": "text",
+    "html": "Để sắp xếp video, bạn có thể thực hiện một trong hai cách<br>- chia sẻ trực tiếp từ ứng dụng TikTok (hoặc Youtube Shorts).<br>- nhập các video đã tải xuống từ thư viện ảnh của bạn.<br><br>Hãy bắt đầu với cái đầu tiên.<br>1. Nhấn \"Chia sẻ\" trên TikTok, cuộn sang phải và nhấn vào \"Thêm\".<br>2. Chọn PickTok, sau đó bạn sẽ được chuyển hướng đến PickTok.<br>3. Sau khi bạn tạo xong hình thu nhỏ, hãy chèn hình thu nhỏ đó vào một thư mục."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "Bây giờ, hãy xem cách nhập video đã tải xuống.<br>1. Nhấn 'Chọn' và chọn video để sắp xếp.<br>2. Nhấn vào một thư mục đích."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Trong trường hợp xảy ra sự cố, chỉ cần nhấn nút ⊗ để đặt lại và thử lại.<br><br># Bạn có muốn chuyển lên PickTok để dễ truy cập hơn trong tùy chọn “Khác” không?<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># Bạn có thể tìm thấy hướng dẫn này sau bằng cách nhấn vào ⓘ ở góc trên cùng bên trái."
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "Thay đổi thứ tự các thư mục"
+   },
+   {
+    "type": "text",
+    "html": "Nhấn giữ và kéo một thư mục đến vị trí bạn muốn.<br>Vâng, nó chỉ là đơn giản. 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "Sắp xếp lại các thư mục con khá giống nhau."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "Thư mục con"
+   },
+   {
+    "type": "text",
+    "html": "Sau khi tạo các thư mục con, bạn có thể điều hướng qua các thư mục bằng cách nhấn vào biểu tượng thư mục.<br><br>Thư mục ngoài cùng bên trái là thư mục gốc và nếu bạn nhấn đúp vào thư mục đó, tất cả video được liên kết bao gồm cả thư mục con của nó sẽ được liệt kê."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "Bạn cũng có thể di chuyển video giữa các thư mục giống như cách bạn đã làm trên tab Sắp xếp.<br><br>Dưới đây, bạn có thể xem cách di chuyển video từ thư mục gốc (Biên lai) sang thư mục con của nó (tiếng Ý)."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "Phát nhiều video cùng lúc"
+   },
+   {
+    "type": "text",
+    "html": "Một tính năng thú vị khác của PickTok là có thể phát đồng thời nhiều video trên cùng một màn hình.<br><br>1. Nhấn 'Chọn'<br>2. Chọn video đã tải xuống.<br>3. Nhấn 'Hành động' rồi chọn 'Chơi nhiều'."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# Xin lưu ý rằng Multi Play chỉ hoạt động đối với các video đã tải xuống."
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "Hướng dẫn điều khiển video"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. Chỉ định tua nhanh/tua lại giây.<br>2. Bỏ qua cảnh kết thúc của TikTok.<br>3. Quay lại để bắt đầu."
+   },
+   {
+    "type": "note",
+    "html": "# Điều khiển video chỉ khả dụng cho các video đã tải xuống."
+   }
+  ]
+ },
+ "zh-Hans": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "组织短视频变得容易"
+   },
+   {
+    "type": "text",
+    "html": "要组织视频，您可以执行以下任一操作<br>- 直接从 TikTok 应用程序（或 Youtube Shorts）分享。<br>- 从您的照片库导入下载的视频。<br><br>让我们从第一个开始。<br>1. 在 TikTok 上点击“分享”，向右滚动并点击“更多”。<br>2. 选择PickTok，然后您将被重定向到PickTok。<br>3. 完成缩略图制作后，将其插入文件夹。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "现在让我们看看如何导入下载的视频。<br>1. 点击“选择”并选择要整理的视频。<br>2. 点击目标文件夹。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# 如果出现问题，只需按 ⊗ 按钮重置并重试。<br><br># 您想将 PickTok 升级到“更多”选项下更易于访问吗？<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># 您稍后可以通过点击左上角的 ⓘ 找到该指南。"
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "重新排序文件夹"
+   },
+   {
+    "type": "text",
+    "html": "按住文件夹并将其拖至所需位置。<br>是的，就是这么简单。 😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "重新排序子文件夹几乎是一样的."
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "子文件夹"
+   },
+   {
+    "type": "text",
+    "html": "创建子文件夹后，您可以通过点击文件夹图标来浏览文件夹。<br><br>最左边的文件夹是根文件夹，如果双击它，将列出所有关联的视频，包括其子文件夹。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "您还可以按照与“组织”选项卡上相同的方式在文件夹之间移动视频。<br><br>下面您可以看到如何将视频从根文件夹（收据）移动到其子文件夹（意大利语）。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "同时播放多个视频"
+   },
+   {
+    "type": "text",
+    "html": "PickTok 的另一个很酷的功能是能够在同一屏幕上同时播放多个视频。<br><br>1. 点击“选择”<br>2. 选择下载的视频。<br>3. 点击“操作”，然后点击“多人游戏”。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# 请注意，多人播放仅适用于下载的视频。"
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "视频控制指南"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. 指定快进/快退秒数。<br>2. 跳过 TikTok 的片尾字幕场景。<br>3. 返回开始。"
+   },
+   {
+    "type": "note",
+    "html": "# 视频控件仅适用于下载的视频."
+   }
+  ]
+ },
+ "zh-Hant": {
+  "organize": [
+   {
+    "type": "title",
+    "html": "組織短視頻變得容易"
+   },
+   {
+    "type": "text",
+    "html": "要組織視頻，您可以執行以下任一操作<br>- 直接從 TikTok 應用程序（或 Youtube Shorts）分享。<br>- 從您的照片庫導入下載的視頻。<br><br>讓我們從第一個開始。<br>1. 在 TikTok 上點擊“分享”，向右滾動並點擊“更多”。<br>2. 選擇PickTok，然後您將被重定向到PickTok。<br>3. 完成縮略圖製作後，將其插入文件夾。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_web.gif"
+   },
+   {
+    "type": "text",
+    "html": "現在讓我們看看如何導入下載的視頻。<br>1. 點擊“選擇”並選擇要整理的視頻。<br>2. 點擊目標文件夾。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/organize_local.gif"
+   },
+   {
+    "type": "note",
+    "html": "# 如果出現問題，只需按 ⊗ 按鈕重置並重試。<br><br># 您想將 PickTok 升級到“更多”選項下更易於訪問嗎？<br><a href=\"https://www.igeeksblog.com/how-to-customize-share-sheet-on-iphone-ipad/\">Customizing Share Sheet (iOS only)</a><br><br># 您稍後可以通過點擊左上角的 ⓘ 找到本指南。"
+   }
+  ],
+  "folders": [
+   {
+    "type": "title",
+    "html": "重新排序文件夾"
+   },
+   {
+    "type": "text",
+    "html": "按住文件夾並將其拖至所需位置。<br>是的，就是這麼簡單。😉"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_folders.gif"
+   },
+   {
+    "type": "text",
+    "html": "重新排序子文件夾幾乎是一樣的。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/reordering_subfolders.gif"
+   }
+  ],
+  "subfolders": [
+   {
+    "type": "title",
+    "html": "子文件夾"
+   },
+   {
+    "type": "text",
+    "html": "創建子文件夾後，您可以通過點擊文件夾圖標來瀏覽文件夾。<br><br>最左邊的文件夾是根文件夾，如果雙擊它，將列出所有關聯的視頻，包括其子文件夾。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_navigation.gif"
+   },
+   {
+    "type": "text",
+    "html": "您還可以按照與“組織”選項卡上相同的方式在文件夾之間移動視頻。<br><br>下面您可以看到如何將視頻從根文件夾（收據）移動到其子文件夾（意大利語）。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/subfolder_organize.gif"
+   },
+   {
+    "type": "divider"
+   },
+   {
+    "type": "title",
+    "html": "同時播放多個視頻"
+   },
+   {
+    "type": "text",
+    "html": "PickTok 的另一個很酷的功能是能夠在同一屏幕上同時播放多個視頻。<br><br>1. 點擊“選擇”<br>2. 選擇下載的視頻。<br>3. 點擊“操作”，然後點擊“多人遊戲”。"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/multi_play.gif"
+   },
+   {
+    "type": "note",
+    "html": "# 請注意，多人播放僅適用於下載的視頻。"
+   }
+  ],
+  "video-controls": [
+   {
+    "type": "title",
+    "html": "視頻控制指南"
+   },
+   {
+    "type": "image",
+    "src": "/tutorial-media/video_control.jpg"
+   },
+   {
+    "type": "text",
+    "html": "1. 指定快進/快退秒數。<br>2. 跳過 TikTok 的片尾字幕場景。<br>3. 返回開始。"
+   },
+   {
+    "type": "note",
+    "html": "# 視頻控件僅適用於下載的視頻."
+   }
+  ]
+ }
+}

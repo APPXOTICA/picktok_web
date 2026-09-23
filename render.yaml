@@ -1,0 +1,23 @@
+# Render Blueprint — PickTok website (landing page + in-app tutorial pages)
+services:
+  - type: web
+    name: picktok-web
+    runtime: static
+    buildCommand: npm ci && npm run build
+    staticPublishPath: ./build
+    pullRequestPreviewsEnabled: false
+    headers:
+      - path: /tutorial-media/*
+        name: Cache-Control
+        value: public, max-age=2592000, immutable
+      - path: /_app/immutable/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+    routes:
+      # Tutorial URLs without a trailing slash (/tutorial/en/organize) -> prerendered index.html
+      - type: rewrite
+        source: /tutorial/:locale/:page
+        destination: /tutorial/:locale/:page/index.html
+      - type: rewrite
+        source: /tutorial/:locale
+        destination: /tutorial/:locale/index.html

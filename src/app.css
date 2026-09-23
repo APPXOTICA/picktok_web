@@ -1,0 +1,77 @@
+:root {
+	--bg: #111111;
+	--surface: #151517;
+	--surface-2: #1c1c1f;
+	--line: #2a2a2e;
+	--text: #f4f4f5;
+	--text-dim: #a1a1aa;
+	--text-faint: #71717a;
+	--cyan: #25f4ee;
+	--pink: #fe2c55;
+	--yellow: #ffc400;
+	--blue: #4c5fd5;
+	--radius: 18px;
+	--max: 1120px;
+	--font-display: 'Outfit', 'Open Sans', system-ui, sans-serif;
+	--font-body: 'Open Sans', system-ui, -apple-system, 'Apple SD Gothic Neo', 'Noto Sans', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	-webkit-text-size-adjust: 100%;
+	scroll-behavior: smooth;
+}
+
+body {
+	background: var(--bg);
+	color: var(--text);
+	font-family: var(--font-body);
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+	overflow-x: hidden;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+}
+
+a {
+	color: inherit;
+}
+
+:focus-visible {
+	outline: 2px solid var(--cyan);
+	outline-offset: 3px;
+	border-radius: 6px;
+}
+
+.container {
+	width: 100%;
+	max-width: var(--max);
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation: none !important;
+		transition: none !important;
+		scroll-behavior: auto !important;
+	}
+}
+
+/* Korean: break between words, not inside them */
+html[lang='ko'] body {
+	word-break: keep-all;
+	overflow-wrap: anywhere;
+}
